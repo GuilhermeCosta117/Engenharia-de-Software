@@ -1,9 +1,9 @@
 1 - Informe as características desejáveis de um bom produto de software. 
 
 Em meio ao contexto da criação e do desenvolvimento de um produto de software é de máxima preocupação de seus desenvolvedores 
-manter um nível de qualidade aceitável para que seja comercializado no mercado atual, qual é muito exigente com o produto pois
-será amplamente disponibilizado para seus usuários ou exclusivamente para a equipe de profissionais, por isso é preciso seguir
-uma norma para manter características desejáveis como a norma ISO/IEC 9126 que foca na qualidade do produto de software, propondo
+manter um nível de qualidade aceitável para que seja comercializado no mercado atual, qual é muito exigente com o produto de software, 
+pois será amplamente disponibilizado para seus usuários ou exclusivamente para a equipe de profissionais, por isso é preciso seguir
+uma norma para manter características desejáveis, como a norma ISO/IEC 9126 que foca na qualidade do produto de software, propondo
 um modelo de qualidade de software com 6 características principais, sendo elas:
 
   - Funcionalidade: A capacidade do Software atender as necessidades explícitas e implícitas pelo qual foi projetado; 
