@@ -1,0 +1,40 @@
+1 - Informe as características desejáveis de um bom produto de software. 
+
+Em meio ao contexto da criação e do desenvolvimento de um produto de software é de máxima preocupação de seus desenvolvedores 
+manter um nível de qualidade aceitável para que seja comercializado no mercado atual, qual é muito exigente com o produto pois
+será amplamente disponibilizado para seus usuários ou exclusivamente para a equipe de profissionais, por isso é preciso seguir
+uma norma para manter características desejáveis como a norma ISO/IEC 9126 que foca na qualidade do produto de software, propondo
+um modelo de qualidade de software com 6 características principais, sendo elas:
+
+  - Funcionalidade: A capacidade do Software atender as necessidades explícitas e implícitas pelo qual foi projetado; 
+    -> Adequação: O software é capaz realizar suas funções de forma apropriada;
+    -> Acurácia: O software é capaz de prover resultados conforme acordados;
+    -> Interoperabilidade: O software é capaz de interagir com um ou mais sistemas especificados;
+    -> Segurança de acesso: O software é capaz de evitar acesso não autorizado, acidental ou deliberado a programas e dados;
+    -> Conformidade: O software está de acordo com normas e convenções previstas em leis e descrições similares.
+
+  - Confiabilidade: A capacidade do Software de manter o desempenho ao longo do tempo;
+    -> Maturidade: O software é capaz de evitar falhas;
+    -> Tolerância a falhas: O software é capaz de se manter ainda que ocorram defeitos;
+    -> Recuperabilidade: O software é capaz de recuperar dados em casos de falhas.
+
+  - Usabilidade: A capacidade do Software de ser compreendido e operado;
+    -> Inteligibilidade: O software é capaz de ser entendido e como deve ser usado;
+    -> Apreensibilidade: O software é capaz de ser de fácil aprendizado;
+    -> Operacionalidade: O software é capaz de ser facilmente operado.
+
+  - Eficiência: A capacidade do Software de apresentar desempenho apropriado em relação ao tempo de execução e recursos envolvidos;
+    -> Comportamento em Relação ao Tempo: O software e o seu tempo de resposta e processamento;
+    -> Comportamento em relação aos recursos: O software e a quantidade de recurso utilizado quanto a capacidade do sistema.
+
+  - Manutenibilidade: A capacidade do Software de ser modificado, como melhorias e correções de erros;
+    -> Analisabilidade: A identificação a facilidade de se encontrar um problema no software;
+    -> Modificabilidade: A facilidade de realizar modificações dentro de softwares;
+    -> Estabilidade: A facilidade de identificar bugs durante modificações;
+    -> Testabilidade: A facilidade de realizar testes quando se realiza alterações.
+
+  - Portabilidade: A capacidade do Software de ser portado em diversas plataformas;
+    -> Adaptabilidade: A capacidade do software de se adaptar em outros ambientes sem ações adicionais; 
+    -> Capacidade para ser instalado: A facilidade com que pode se instalar o sistema a um novo ambiente;
+    -> Capacidade para substituir: A capacidade desse sistema de substituir outro software;
+    -> Conformidade: A capacidade do software estar de acordo com normas ou convenções de portabilidade.
